@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversor de Moneda</string>
+    <string name="resultado1">Resultado1</string>
+    <string name="resultado2" >" Resultado2"</string>
+    <string name="resultado3">Resultado3</string>
+    <string name="resultado4">Resultado4</string>
+    <string name="btconvertir">Convertir a:</string>
+    <string name="hint_valor">Ingrese el valor a convertir</string>
+    <string name="moneda">Moneda</string>
+</resources>
